@@ -59,5 +59,5 @@ function groupBy(objArr, prop) {
   }, {})
 }
 
-let groupedPeople = groupBy(people, 'age');
-console.log(groupedPeople);
+// let groupedPeople = groupBy(people, 'age');
+// console.log(groupedPeople);
